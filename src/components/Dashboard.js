@@ -33,7 +33,7 @@ export default function Dashboard() {
           {/* <Link to="/update-profile" className="btn btn-primary w-100 mt-3">
             Update Profile
           </Link> */}
-          <ProfileInfo />
+//           <ProfileInfo />
         </Card.Body>
         <div className="w-100 text-center mt-2">
         <Button variant="link" onClick={handleLogout}>
